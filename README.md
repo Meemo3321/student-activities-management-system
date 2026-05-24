@@ -4,3 +4,5 @@ added QR attendance features KAN-7
 Enhanced user interface layout KAN-1
 Fix login button error KAN-4
 Fix login authentication error KAN-5
+Update project documentation KAN-6
+Request Dashboard interface improvement KAN-8
