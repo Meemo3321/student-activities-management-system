@@ -138,7 +138,7 @@ try {
         <div class="container">
             <div class="hero-content">
                 <h1>رِواق - منصة إدارة الأنشطة اللاصفية</h1>
-                <p>منصة متكاملة لإدارة الفعاليات والأنشطة الطلابية مع نظام ذكي لتسجيل الحضور وإصدار الشهادات الرقمية</p>
+                <p>الوجهة الأولى لطلاب وطالبات جامعة لتنظيم وتوثيق الأنشطة الجامعية بكل سهولة</p>
                 <div class="hero-buttons">
                     <a href="auth/register.php" class="hero-btn">
                         <i class="fas fa-rocket"></i> ابدأ الآن
